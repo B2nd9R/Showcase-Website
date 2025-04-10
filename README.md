@@ -15,7 +15,7 @@
 📬 **تواصل معي**:
 - 📧 البريد الإلكتروني: your-email@example.com
 - 💼 لينكدإن: [linkedin.com/in/B2nd9R](https://linkedin.com/in/your-profile)
-- 🌐 الموقع: [https://B2nd9R.github.io/my-portfolio](https://B2nd9R.github.io/my-portfolio)
+- 🌐 الموقع: [https://B2nd9R.github.io/my-portfolio](https://B2nd9R.github.io/showcase-website)
 
 ---
 شكرًا لزيارتك! 🌟
